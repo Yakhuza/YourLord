@@ -1,2 +1,3 @@
-# BAJINGANv6
-Tools Auto installer from Darkness Cyber Team We Security We Not Friends We Are Family
+# Mr.kazhoy
+Ini adalah Tools Termux dari berbagai master pemrograman
+Silahkan gunakan tapi jangan di salah gunakan!!
